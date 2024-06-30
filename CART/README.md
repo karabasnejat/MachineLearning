@@ -21,7 +21,7 @@ pip install pandas numpy scikit-learn graphviz
 
 - `trainSet.csv`: Training dataset.
 - `testSet.csv`: Test dataset.
-- `CART_2019280036.ipynb`: Jupyter Notebook containing the entire code.
+- `CART.ipynb`: Jupyter Notebook containing the entire code.
 - `performans_olcumleri.txt`: Text file where the performance metrics are saved.
 - `decision_tree.gv` and `decision_tree.png`: Files for the visual representation of the decision tree.
 
@@ -53,7 +53,7 @@ The decision tree is visualized using the `graphviz` library and saved as a PNG 
 ## How to Run
 
 1. Place the `trainSet.csv` and `testSet.csv` files in the same directory as the Jupyter Notebook.
-2. Open the `CART_2019280036.ipynb` notebook and run all cells.
+2. Open the `CART.ipynb` notebook and run all cells.
 3. The performance metrics will be printed on the console and saved in `performans_olcumleri.txt`.
 4. The decision tree will be visualized and saved as `decision_tree.png`.
 
