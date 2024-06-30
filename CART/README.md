@@ -1,5 +1,3 @@
-### README
-
 # Decision Tree Classifier Project
 
 This project involves implementing a Decision Tree Classifier from scratch in Python and evaluating its performance on a given dataset. The classifier is tested on both training and test datasets, and the results are saved in a text file. Additionally, the decision tree is visualized and saved as a PNG file.
