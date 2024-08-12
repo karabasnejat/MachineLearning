@@ -9,6 +9,7 @@ This repository aims to provide implementations of popular machine learning algo
 - CART (Classification and Regression Trees)
 - Decision Trees
 - Kohonen SOM
+- K-Means Clustering
 
 The projects include both `.py` and `.ipynb` files to facilitate ease of use and understanding.
 
