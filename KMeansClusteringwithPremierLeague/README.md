@@ -1,7 +1,7 @@
 
 # Fantasy Premier League Stoper Analizi
 
-Bu proje, Fantasy Premier League (FPL) 2024-2025 sezonu için stoper oyuncularının (defans oyuncularının) yeteneklerine göre kümelendiği bir analiz uygulamasıdır. Uygulama, oyuncuları performans metriklerine göre gruplandırarak, kullanıcıların en iyi stoper oyuncularını incelemesine olanak tanır.
+Bu proje, Fantasy Premier League (FPL) 2024-2025 sezonu için stoper oyuncularının (defans oyuncularının) yeteneklerine göre kümelendiği bir analiz uygulamasıdır. Uygulama, oyuncuları performans metriklerine göre gruplandırarak, kullanıcıların en iyi oyuncuları incelemesine olanak tanır.
 
 ## İçindekiler
 
@@ -15,7 +15,7 @@ Bu proje, Fantasy Premier League (FPL) 2024-2025 sezonu için stoper oyuncuları
 
 ## Proje Hakkında
 
-Bu proje, Python kullanarak oluşturulmuş bir veri görselleştirme ve analiz uygulamasıdır. Uygulama, FPL oyuncularının çeşitli performans metriklerini kullanarak K-means kümeleme algoritması ile gruplandırılmasını sağlar. Stoperler (defans oyuncuları) için oluşturulan bu analiz, oyuncuların hangi kümelerde yer aldığını ve birbirlerine ne kadar benzediklerini görsel olarak sunar.
+Bu proje, Python kullanarak oluşturulmuş bir veri görselleştirme ve analiz uygulamasıdır. Uygulama, FPL oyuncularının çeşitli performans metriklerini kullanarak K-means kümeleme algoritması ile gruplandırılmasını sağlar. İngiltere Premier Lig oyuncuları için oluşturulan bu analiz, oyuncuların hangi kümelerde yer aldığını ve birbirlerine ne kadar benzediklerini görsel olarak sunar.
 
 ## Kullanılan Teknolojiler
 
