@@ -11,7 +11,7 @@ Bu proje, Fantasy Premier League (FPL) 2024-2025 sezonu için stoper oyuncuları
 - [Kullanım](#kullanım)
 - [Uygulama Özellikleri](#uygulama-özellikleri)
 - [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
+
 
 ## Proje Hakkında
 
@@ -75,7 +75,3 @@ Bu projeye katkıda bulunmak isterseniz, lütfen bir "fork" yapın, kendi dalın
 4. Dalınıza "push" yapın: `git push origin my-feature`
 5. Bir "Pull Request" açın
 
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyin.
-```
